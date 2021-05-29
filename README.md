@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a self-taught MERN stack developer looking to change careers after years of client and customer support and a couple liberal arts degrees. Lately, I've been working in React Native on the frontend and learning about better code architecture. 
+I am a self-taught MERN stack developer changing after years of client and customer support and a couple liberal arts degrees. Lately, I've been working in React Native on the frontend and learning about better code architecture. 
 
 Thanks for giving my code a look. Feel free to reach out! I'm always happy to make a new acquaintance or renew an old one.
 

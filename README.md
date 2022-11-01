@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a self-taught MERN stack developer changing after years of client and customer support and a couple liberal arts degrees. Lately, I've been working in React Native on the frontend and learning about better code architecture. 
+I am a self-taught full stack developer working day-to-day in Django and React. Lately I've enjoyed playing with SvelteKit, Prisma, and the GraphQL ecosystem.
 
 Thanks for giving my code a look. Feel free to reach out! I'm always happy to make a new acquaintance or renew an old one.
 
